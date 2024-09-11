@@ -1,0 +1,1 @@
+This code initializes the proper starting state of the microcontroller and runs an infinite loop such that if the red LED is off and button 1 is pressed, the red LED will turn on and if the red LED is on and button 1 is pressed, the red LED will turn off.
